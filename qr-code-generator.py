@@ -1,7 +1,7 @@
 import os
 import qrcode
 
-input("test")
+inital = (input("Enter A URL: "))
 
 img = qrcode.make(initial)
 img.show()
