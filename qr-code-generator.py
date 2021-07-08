@@ -3,4 +3,4 @@ import qrcode
 
 input("test")
 
-qr = qrcode.make(initial)
+img = qrcode.make(initial)
