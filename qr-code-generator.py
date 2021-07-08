@@ -1,6 +1,6 @@
 import os
 import qrcode
 
-input("test"2)
+input("test")
 
 qr = qrcode.make(initial)
